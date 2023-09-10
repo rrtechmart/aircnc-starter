@@ -16,6 +16,7 @@ import SignUp from "../pages/SignUp/SignUp";
           path:'/',
           element: <Home></Home>            
         },
+        
       ]
     },
     {
